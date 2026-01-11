@@ -24,6 +24,7 @@ const CONFIG = {
         },
       },
       manual: {
+        limit: 8, // How many projects to display.
         // Properties for manually specifying projects
         projects: [
           'Necron-Dev/YqlossClientMixin',
